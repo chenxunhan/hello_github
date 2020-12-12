@@ -6,7 +6,7 @@ now is my game show time.
 #include<bits/stdc++.h> 
 using namespace std; 
 
-int main(){ 
+int main(){  
 	int i=0; 
 	++i; 
 	cout<<i; 
